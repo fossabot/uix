@@ -98,6 +98,7 @@ Please take a look at the [development guidelines](./DEVELOP.md) and the unyt.or
 ## Connect with us
 
 ![https://unyt.org/discord](https://dcbadge.vercel.app/api/server/qJwsRRqezy)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funyt-org%2Fuix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Funyt-org%2Fuix?ref=badge_shield)
 
 **Check out our [Blog](https://unyt.blog)!**
 
@@ -128,3 +129,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ---
 
 <sub>&copy; unyt 2023 • [unyt.org](https://unyt.org)</sub>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Funyt-org%2Fuix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Funyt-org%2Fuix?ref=badge_large)
